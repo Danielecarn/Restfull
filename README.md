@@ -10,6 +10,6 @@ Para executar o servidor:
 
 ### `node server.js`
 
-Para acessar todos os clientes no navegador:
+Para acessar os dados:
 
-### `http://localhost:3000/clients`
+- No Postman: importe a collection dentro da pasta collection deste repositório. 
